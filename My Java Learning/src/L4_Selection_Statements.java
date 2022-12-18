@@ -51,7 +51,7 @@ public class L4_Selection_Statements {
 //		suppose, we want to print week days according to the number, i.e, if the number is 1 then we have to print sunday, and so on upto 7 
 //		and if the number is  other than 1 to 7, then we have to print error
 		
-		int number=5;
+		int number=1;
 		
 		System.out.println("** Switch Selection Statement **");
 		
